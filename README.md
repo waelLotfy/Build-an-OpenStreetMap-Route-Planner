@@ -10,4 +10,4 @@ by individuals who volunteer to perform ground surveys of their local environmen
 I write a code in C++ using real map data and A* search to find a path between two points, just as you might see in a desktop or mobile 
 mapping application.
 
-
+This project is based on udacity C++ nanodegree program.
